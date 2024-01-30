@@ -1,5 +1,5 @@
 # Foldable
 
-foldable-deploy-fail = Вы не можете разложить { $object } здесь.
-fold-verb = Сложить
-unfold-verb = Разложить
+foldable-deploy-fail = Você não pode abrir {$object} aqui.
+fold-verb = Dobrar
+unfold-verb = Desdobrar

@@ -1,2 +1,2 @@
-ent-MobDiona = Урист МакДиона
+ent-MobDiona = Urist McPlants
     .desc = { ent-BaseMobDiona.desc }
